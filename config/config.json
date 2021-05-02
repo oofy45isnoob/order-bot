@@ -1,0 +1,20 @@
+{
+    "base": {
+        "token": "",
+        "prefix": ".",
+        "color": "00ccff"
+    },
+    "Developer": {
+        "debug": false
+    },
+    "config": {
+        "clientStatus": {
+            "type": "WATCHING",
+            "name": "orders",
+            "status": "online"
+        },
+        "openOrdersCategoryID": "",
+        "orderLoggingChannel": "",
+        "orderManagerRoleIDs": [""]
+    }
+}
